@@ -1,5 +1,7 @@
 # Biosphère — Laboratoire du vivant
 
+**[Ouvrir la simulation](https://biosphere-aster.madec.chatgpt.site)** · Version hébergée privée, accessible à son propriétaire.
+
 Simulation interactive d’un écosystème, en français, dans **un seul fichier HTML**. Ouvrez `index.html` dans un navigateur moderne. Aucun serveur, compte, clé API ou outil de compilation n’est nécessaire.
 
 ## Explorer
